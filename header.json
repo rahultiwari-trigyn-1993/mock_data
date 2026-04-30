@@ -1,0 +1,11 @@
+[
+  { "type": "link", "label": "link1", "href": "/youth-public-profile", "linkClassName": "fontchange14 youth lang_youth", "spanClassName": "" },
+  { "type": "link", "label": "link2", "href": "/quiz", "linkClassName": "fontchange14" },
+  {
+    "type": "group",
+    "label": "link3",
+    "children": [
+      { "type": "link", "label": "link3link1", "href": "/voices/blogs", "linkClassName": "events fontchange14", "spanClassName": "lang_event" }
+    ]
+  }
+]
