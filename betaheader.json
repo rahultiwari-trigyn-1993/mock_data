@@ -51,7 +51,7 @@
         spanClassName: 'lang_event',
       },
     ],
-  }
+  },
   {
     type: 'link',
     label: 'Youth',
